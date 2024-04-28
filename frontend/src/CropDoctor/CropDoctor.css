@@ -1,0 +1,35 @@
+.cropdoc1{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 10%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.cropdoc1 h1{
+    color: rgb(234, 80, 73);
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.cropdoc1 input{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.cropdoc1 button {
+    background-color: rgb(46, 141, 78);
+    width: 20%;
+    padding: 7px;
+    border: none;
+    font-family: poppins;
+    font-size: 17px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+.cropdoc1 button:hover {
+    background-color: rgb(234, 80, 73);
+}
